@@ -1,0 +1,10 @@
+body {
+   background-image: linear-gradient(red,orange,yellow,green,blue,indigo,violet,red);
+   text-align: center;
+}
+
+a {
+  font-size: 23px;
+  background-color: white;
+  width: 6700px;
+}
